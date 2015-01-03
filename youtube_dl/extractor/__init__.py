@@ -12,6 +12,7 @@ from .anitube import AnitubeIE
 from .anysex import AnySexIE
 from .aol import AolIE
 from .allocine import AllocineIE
+from .amazonprime import AmazonPrimeIE
 from .aparat import AparatIE
 from .appletrailers import AppleTrailersIE
 from .archiveorg import ArchiveOrgIE
